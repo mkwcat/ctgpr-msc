@@ -1,6 +1,8 @@
 # CTGP-R MSC
 
-CTGP-R MSC (Mass Storage Class) is a custom launcher for CTGP-R that adds support for USB storage. It works by patching IOS to catch and redirect commands directed to the SD Card. This makes it possible to use CTGP on a Wii Mini, or a Wii/Wii U with a broken SD Card slot.
+CTGP-R MSC (Mass Storage Class) is a custom launcher for CTGP-R that adds support for loading CTGP-R's files off a USB storage device. It works by patching IOS to catch and redirect commands directed to the SD Card. This makes it possible to use CTGP-R on a Wii Mini, or a Wii/Wii U with a broken SD Card slot.
+
+Note that this does NOT mean that you can use an ISO, you still need a Mario Kart Wii game disc. This project is unrelated to and not compatible with USB loaders.
 
 This project is based on [Saoirse](https://github.com/TheLordScruffy/saoirse).
 
